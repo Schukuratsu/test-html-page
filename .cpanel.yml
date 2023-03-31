@@ -2,5 +2,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/deployments/test-html-page/
+    - export DEPLOYPATH=/home2/oracul42/deployments/test-html-page/
     - /bin/cp index.html $DEPLOYPATH
